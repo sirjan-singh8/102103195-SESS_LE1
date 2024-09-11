@@ -17,5 +17,7 @@ The paper details the creation of the "Speech Commands" dataset, recorded by vol
 6. **MFCC Analysis**: MFCC features were extracted to assess the quality of the speech signals. The MFCC coefficients, which are essential in speech recognition, show consistent patterns across samples. Padding was applied to standardize the feature length for further analysis and model training.
 
 
-# Classifier
+# Classifier Results
 ![image](https://github.com/user-attachments/assets/3fb8a056-5259-41c3-9430-1f8fe8cf1af1)
+![image](https://github.com/user-attachments/assets/d0e562f3-6f55-4b84-8e2b-26fe9c7b97e0)
+
