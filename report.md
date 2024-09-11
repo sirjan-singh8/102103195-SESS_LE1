@@ -15,3 +15,7 @@ The paper details the creation of the "Speech Commands" dataset, recorded by vol
 5. **Energy Distribution**: The energy of the audio files was computed to check the overall signal strength. A wide range of energy levels was observed, suggesting the presence of background noise or variance in recording quality. This will require preprocessing steps like normalization or noise filtering during model training.
 
 6. **MFCC Analysis**: MFCC features were extracted to assess the quality of the speech signals. The MFCC coefficients, which are essential in speech recognition, show consistent patterns across samples. Padding was applied to standardize the feature length for further analysis and model training.
+
+
+# Classifier
+![image](https://github.com/user-attachments/assets/3fb8a056-5259-41c3-9430-1f8fe8cf1af1)
